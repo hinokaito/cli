@@ -1,0 +1,14 @@
+- [x] echo
+- [ ] cat
+- [ ] head
+- [ ] wc
+- [ ] uniq
+- [ ] find
+- [ ] cut
+- [x] grep
+- [ ] comm
+- [ ] tail
+- [ ] fortune
+- [ ] cal
+- [ ] ls
+- [ ] tail
